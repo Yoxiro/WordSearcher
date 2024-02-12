@@ -10,7 +10,7 @@ WordSearcher是一个为**中国大陆地区**英语学习者制作的单词查�
 
 ## 如何下载与安装？
 
-下载software文件夹下的Searchworld2.exe，**无需安装**
+下载software文件夹下的SearchWorld2.exe，**无需安装**
 
 ## 使用
 
